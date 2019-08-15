@@ -4,9 +4,12 @@ wahtever content it is
 <<<<<<< HEAD
 venus
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 61c7880... discuss the concern
 =======
 >>>>>>> parent of 212d326... Write plans to start a base on Venus
+=======
+>>>>>>> parent of 7a64fd3... changes
 =======
 >>>>>>> parent of 7a64fd3... changes
