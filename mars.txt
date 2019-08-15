@@ -2,6 +2,9 @@ Cold and try, but everythig is my favoraite color.
 The two moons might be a problem
 <<<<<<< HEAD
 wahtever content it is
+<<<<<<< HEAD
 venus
 =======
 >>>>>>> parent of 61c7880... discuss the concern
+=======
+>>>>>>> parent of 212d326... Write plans to start a base on Venus
